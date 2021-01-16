@@ -1,0 +1,22 @@
+body{
+    border: 10px;
+    color: rgb(0, 64, 184);
+}
+td{
+    background-color: rgb(213, 210, 255);
+}
+.Velencei-tó{
+    color: rgb(0, 0, 124);
+    background-color: rgb(255, 211, 153);
+}
+.vt{
+    color: rgb(0, 0, 124);
+    background-color: rgb(226, 216, 202);
+}
+.tn{
+    color:rgb(0, 0, 124);
+    background-color: rgb(164, 164, 255);
+}
+th{
+    background-color: rgb(159, 177, 214);
+}
