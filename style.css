@@ -4,19 +4,52 @@ body{
 }
 td{
     background-color: rgb(213, 210, 255);
+    border-radius: 5px;
+    height: 60px;
+    width: 50px;
+    box-shadow: 3x 3px 0 0;
+
 }
 .Velencei-tó{
     color: rgb(0, 0, 124);
     background-color: rgb(255, 211, 153);
+    border-radius: 5px;
+    height: 60px;
+    width: 90px;
+    box-shadow: 3px 3px 0 0;
+    
+
 }
 .vt{
     color: rgb(0, 0, 124);
     background-color: rgb(226, 216, 202);
+    border-radius: 5px;
+    height: 60px;
+    width: 50px;
+    box-shadow: 3px  3px 0 0;
 }
 .tn{
     color:rgb(0, 0, 124);
     background-color: rgb(164, 164, 255);
+    border-radius: 5px;
+    height: 60px;
+    width: 50px;
+    box-shadow: 3px 3px 0 0;
+
+    
+
 }
 th{
     background-color: rgb(159, 177, 214);
+    border-radius: 5px;
+    height: 60px;
+    width: 50px;    
+    box-shadow: 3px 3px 0 0;
+}
+.piros{
+    color: red;
+}
+img{
+    max-height: 80px;
+    max-width: 100px;
 }
